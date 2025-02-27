@@ -6,7 +6,7 @@ import seaborn as sns
 import numpy as np
 
 # Path to the CSV file
-file_path = "C:/Users/Dell.000/Desktop/Indian Academy of Science/Trial/pre_filtered_miRNAs.csv"
+file_path = "Path/to/yo/file"
 
 # Load the data
 try:
